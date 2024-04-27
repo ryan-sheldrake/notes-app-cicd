@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: notes-app-deployment
-        image: pavansa/notes-app
+        image: 759984737373.dkr.ecr.eu-west-2.amazonaws.com/ryans:noteapp
         resources:
           requests:
             cpu: "100m"
